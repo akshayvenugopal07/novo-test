@@ -1,7 +1,8 @@
 # novo-test
 
-New project. Scaffolding (React + TypeScript/Vite frontend, Node.js +
-TypeScript backend) to be added next.
+New project. `backend/` has a minimal Node.js + TypeScript + Express +
+SQLite POC backend (see `backend/package.json` for scripts). A React +
+TypeScript/Vite frontend is still to be added.
 
 ## AI agent tooling
 
