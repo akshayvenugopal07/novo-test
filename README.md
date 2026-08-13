@@ -1,7 +1,7 @@
 # novo-test
 
-New project. Scaffolding (React + TypeScript/Vite frontend, Node.js +
-TypeScript backend) to be added next.
+New project. `frontend/` is a React + TypeScript/Vite scaffold. A Node.js +
+TypeScript backend is to be added next.
 
 ## AI agent tooling
 
