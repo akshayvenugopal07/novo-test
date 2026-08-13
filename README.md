@@ -1,5 +1,9 @@
 # novo-test
 
+New project. `backend/` has a minimal Node.js + TypeScript + Express +
+SQLite POC backend (see `backend/package.json` for scripts). A React +
+TypeScript/Vite frontend is still to be added.
+
 New project. `frontend/` is a React + TypeScript/Vite scaffold. A Node.js +
 TypeScript backend is to be added next.
 
